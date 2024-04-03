@@ -1,6 +1,6 @@
 ## Explorando os recursos da IA Generativa
 
-Proposto para este laboraório final a descrição da extração de textos com as imagens utilizadas no diretório inputs e os resultados gerasdos no diretório outputs.
+Proposto para este laboratório final a descrição da extração de textos com as imagens utilizadas no diretório inputs e os resultados gerasdos no diretório outputs.
 
 # 1º Criação de um recurso no Azure al services
 
